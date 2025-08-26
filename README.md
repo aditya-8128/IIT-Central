@@ -1,6 +1,6 @@
 # IIT Central (In-Progress)
 
-🚧 This project is currently **in-progress**.  
+This project is currently **in-progress**.  
 Only this README file is available for now — the full source code and documentation will be uploaded soon.
 
 ---
@@ -27,10 +27,10 @@ It integrates multiple essential modules for campus life, aiming to simplify dai
 
 ## Current Status
 
-- ✅ Design & Architecture defined  
-- ✅ Core modules in development  
-- 🚧 Backend integrations ongoing  
-- ⏳ Repository will be updated with source files soon
+-  Design & Architecture defined  
+-  Core modules in development  
+-  Backend integrations ongoing  
+-  Repository will be updated with source files soon
 
 ---
 
